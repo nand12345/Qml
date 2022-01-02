@@ -37,6 +37,7 @@ Window {
         z:3
     }
   
+  // x is right and y is down
   // z cordinates are for putting the things on top (Just like table or something)
   // By default components in qml are arranged in stack in the order of their creation
   // higher the z value , more it will be on top
